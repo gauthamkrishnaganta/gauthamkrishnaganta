@@ -44,25 +44,31 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,java,cpp,mongodb,mysql,postgres,tailwind,git,github,docker,vscode,figma,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,mysql,postgres,git,github,vscode,figma&theme=dark" />
 
 </div>
 
 <br>
+
+
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauthamkrishnaganta&theme=dark&hide_border=true&background=00081400&ring=1E5FD9&fire=87CEEB&currStreakLabel=87CEEB&sideLabels=B7E1F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=4FA8E8" width="80%" />
+<img src="analytics-animated-divider.svg" width="100%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauthamkrishnaganta&theme=dark&hide_border=true&background=0D1117&ring=1E5FD9&fire=87CEEB&currStreakLabel=87CEEB&sideLabels=B7E1F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=4FA8E8" width="80%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauthamkrishnaganta&theme=react-dark&hide_border=true&bg_color=00081400&color=87CEEB&line=1E5FD9&point=FFFFFF&area=true&area_color=1E5FD9" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauthamkrishnaganta&theme=react-dark&hide_border=true&bg_color=0D1117&color=87CEEB&line=1E5FD9&point=FFFFFF&area=true&area_color=1E5FD9" width="90%" />
+
+<br><br>
+
+<img src="analytics-animated-divider.svg" width="100%">
 
 </div>
-
-<br>
 
 ## 🐍 Contribution Snake
 
@@ -111,7 +117,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/gautham-krishna-ganta-1265032b6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautham-krishna-ganta-1265032b6/])
 [![Email](https://img.shields.io/badge/EMAIL-0000B0?style=for-the-badge&logo=gmail&logoColor=87CEEB)](mailto:[gauthamkrishnaganta@gmail.com])
 
 <br>
