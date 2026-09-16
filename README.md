@@ -22,11 +22,11 @@
 <tr>
 <td width="65%" valign="top">
 
-- 💻 Full Stack Developer passionate about building modern web apps
-- 🌱 Currently learning **System Design, Cloud & DevOps**
+- 💻 Full Stack Python Developer passionate about building applications
+- 🌱 Currently learning **RAG, Agentic Workflows, Deep Learning & Modern Generative AI **
 - 🤖 Building AI-powered projects and contributing to Open Source
 - 🎯 Goal: create products that solve real-world problems
-- 🎨 Passionate about AI, astronomy, art, and building things that matter
+- 🎨 Passionate about AI, WEB3, art, and cinema 
 - ✨ Always chasing the next idea worth building
 
 </td>
@@ -111,12 +111,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1E5FD9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin-id])
-[![X](https://img.shields.io/badge/X-000814?style=for-the-badge&logo=x&logoColor=87CEEB)](https://x.com/[your-x-handle])
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-0000B0?style=for-the-badge&logo=instagram&logoColor=87CEEB)](https://instagram.com/[your-instagram-handle])
-[![TikTok](https://img.shields.io/badge/TIKTOK-000814?style=for-the-badge&logo=tiktok&logoColor=87CEEB)](https://tiktok.com/@[your-tiktok-handle])
-[![YouTube](https://img.shields.io/badge/YOUTUBE-1E5FD9?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@[your-youtube-handle])
-[![Email](https://img.shields.io/badge/EMAIL-0000B0?style=for-the-badge&logo=gmail&logoColor=87CEEB)](mailto:[your.email@example.com])
+[![LinkedIn](https://www.linkedin.com/in/gautham-krishna-ganta-1265032b6/)
+[![Email](https://img.shields.io/badge/EMAIL-0000B0?style=for-the-badge&logo=gmail&logoColor=87CEEB)](mailto:[gauthamkrishnaganta@gmail.com])
 
 <br>
 
