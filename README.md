@@ -1,45 +1,38 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://your-banner-image-link.com/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://your-banner-image-link.com/banner-light.png">
-  <img alt="Banner" src="https://your-banner-image-link.com/banner-light.png" width="100%">
-</picture>
-
-<br><br>
-
-# Hey there, I'm [Gautham Krishna] 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="banner-synthwave-blue.svg" width="100%" alt="Banner">
 
 <br>
 
-[![Followers](https://img.shields.io/github/followers/gauthamkrishnaganta?label=Followers&style=for-the-badge&color=87CEEB&logo=github)](https://github.com/gauthamkrishnaganta)
-[![Stars](https://img.shields.io/github/stars/gauthamkrishnaganta?label=Stars&style=for-the-badge&color=87CEEB&logo=github)](https://github.com/gauthamkrishnaganta)
-[![Profile Views](https://komarev.com/ghpvc/?username=gauthamkrishnaganta&label=Profile%20Views&style=for-the-badge&color=87CEEB)](https://github.com/gauthamkrishnaganta)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Open+Source+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+
+<br><br>
+
+[![Followers](https://img.shields.io/github/followers/gauthamkrishnaganta?label=FOLLOWERS&style=for-the-badge&color=1E5FD9&logo=github&logoColor=white)](https://github.com/gauthamkrishnaganta)
+[![Stars](https://img.shields.io/github/stars/gauthamkrishnaganta?label=STARS&style=for-the-badge&color=0000B0&logo=star&logoColor=white)](https://github.com/gauthamkrishnaganta)
+[![Profile Views](https://komarev.com/ghpvc/?username=gauthamkrishnaganta&label=PROFILE%20VIEWS&style=for-the-badge&color=87CEEB)](https://github.com/gauthamkrishnaganta)
 
 </div>
 
 <br>
 
-## 🧑‍💻 About Me
+## 👤 About Me
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Technology/Skill]**
-- 👯 I'm looking to collaborate on **[Project/Idea]**
-- 💬 Ask me about **[Topics]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
-- 🎯 Goal: **[Your career/learning goal]**
+- 💻 Full Stack Developer passionate about building modern web apps
+- 🌱 Currently learning **System Design, Cloud & DevOps**
+- 🤖 Building AI-powered projects and contributing to Open Source
+- 🎯 Goal: create products that solve real-world problems
+- 🎨 Passionate about AI, astronomy, art, and building things that matter
+- ✨ Always chasing the next idea worth building
 
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://your-image-link.com/profile-illustration.png" width="100%" alt="About Illustration">
+<img src="avatar.jpg" width="100%" style="border-radius: 12px;" alt="Avatar">
 
 </td>
 </tr>
@@ -47,30 +40,25 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,cpp,mongodb,mysql,postgres,docker,git,github,figma,vscode,linux,aws,tailwind&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,java,cpp,mongodb,mysql,postgres,tailwind,git,github,docker,vscode,figma,npm&theme=dark" />
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gauthamkrishnaganta&show_icons=true&theme=transparent&hide_border=true&title_color=0000FF&icon_color=87CEEB&text_color=000080&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamkrishnaganta&layout=compact&theme=transparent&hide_border=true&title_color=0000FF&text_color=000080&langs_count=8" width="38%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauthamkrishnaganta&theme=dark&hide_border=true&background=00081400&ring=1E5FD9&fire=87CEEB&currStreakLabel=87CEEB&sideLabels=B7E1F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=4FA8E8" width="80%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauthamkrishnaganta&theme=default&hide_border=true&background=FFFFFF00&ring=0000FF&fire=87CEEB&currStreakLabel=000080&sideLabels=000080&currStreakNum=0000FF&sideNums=0000FF&dates=87CEEB" width="60%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauthamkrishnaganta&theme=react-dark&hide_border=true&bg_color=FFFFFF00&color=000080&line=0000FF&point=87CEEB&area=true&area_color=87CEEB" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauthamkrishnaganta&theme=react-dark&hide_border=true&bg_color=00081400&color=87CEEB&line=1E5FD9&point=FFFFFF&area=true&area_color=1E5FD9" width="90%" />
 
 </div>
 
@@ -85,8 +73,8 @@
 </div>
 
 <!--
-  Add this GitHub Action to auto-generate the snake animation above:
-  (create .github/workflows/snake.yml in your profile repo)
+  GitHub Action to auto-generate the snake animation above.
+  Create this file at: .github/workflows/snake.yml
 
   name: Generate Snake
   on:
@@ -119,15 +107,20 @@
 
 <br>
 
-## 🤝 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin-id])
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/[your-x-handle])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[your-instagram-handle])
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@[your-youtube-handle])
-[![Email](https://img.shields.io/badge/Email-87CEEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your.email@example.com])
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1E5FD9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin-id])
+[![X](https://img.shields.io/badge/X-000814?style=for-the-badge&logo=x&logoColor=87CEEB)](https://x.com/[your-x-handle])
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0000B0?style=for-the-badge&logo=instagram&logoColor=87CEEB)](https://instagram.com/[your-instagram-handle])
+[![TikTok](https://img.shields.io/badge/TIKTOK-000814?style=for-the-badge&logo=tiktok&logoColor=87CEEB)](https://tiktok.com/@[your-tiktok-handle])
+[![YouTube](https://img.shields.io/badge/YOUTUBE-1E5FD9?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@[your-youtube-handle])
+[![Email](https://img.shields.io/badge/EMAIL-0000B0?style=for-the-badge&logo=gmail&logoColor=87CEEB)](mailto:[your.email@example.com])
+
+<br>
+
+<sub>See you in the next commit ✨</sub>
 
 </div>
 
@@ -135,6 +128,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=150&section=footer&text=Thanks%20for%20visiting!&fontColor=000080&fontSize=28&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:1E5FD9,100:87CEEB&height=150&section=footer&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
 </div>
